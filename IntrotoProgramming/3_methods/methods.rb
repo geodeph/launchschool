@@ -35,7 +35,7 @@
 #end
 
 #scream("Yippeee")
-  #Answer: blank space
+  ANSWER: blank space
 
 
 
@@ -53,4 +53,4 @@
 #  from (irb):4
 #  from /Users/username/.rvm/rubies/ruby-2.0.0-p353/bin/irb:12:in `<main>'
 
-#ANSWER: Only one arguments was provided into the calculate_product method instead of two
+ANSWER: Only one arguments was provided into the calculate_product method instead of two
